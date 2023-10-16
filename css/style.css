@@ -1,0 +1,26 @@
+.description {
+    display: inline-block;
+    vertical-align: top;
+}
+
+i {
+    width: 2rem;
+    text-align: center;
+}
+
+.author {
+    font-size: 120%;
+}
+
+.title {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.publisher {    
+    font-style: italic;
+}
+
+.role {    
+    font-style: italic;
+}
