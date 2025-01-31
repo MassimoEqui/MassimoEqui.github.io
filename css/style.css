@@ -8,6 +8,12 @@ i {
     text-align: center;
 }
 
+.icon {
+    height: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
 .author {
     font-size: 120%;
 }
