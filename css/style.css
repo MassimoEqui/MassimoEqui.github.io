@@ -8,6 +8,10 @@ i {
     text-align: center;
 }
 
+hr.custom {
+    border: 1px solid black;
+}
+
 .icon {
     height: 1rem;
     padding-left: 0.5rem;
